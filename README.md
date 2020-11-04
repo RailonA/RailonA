@@ -1,10 +1,4 @@
-### Hi there 👋
-
-
-👤 **Railon Acosta**
-
-- Linkedin: [@railonAcosta](https://www.linkedin.com/in/railon-acosta-81265180/)
-- Twiter: [@railonAcosta](https://twitter.com/RailonAcosta)
+### Hi, I'm Railon Acosta 👋
 
 <!--
 **RailonA/RailonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
