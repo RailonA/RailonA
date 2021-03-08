@@ -1,8 +1,7 @@
 ### Hi, I'm Railon Acosta 👋
 
     I’m currently a student at Microverse remote full stack software developer bootcamp
-    I'm currently learning HTML&CSS
-    Then Ruby, Ruby on Rails, JavaScript, React&Redux
+    I'm currently learning HTML&CSS, Ruby, Ruby on Rails, JavaScript, React & Redux
     I have a strong background in Credit card processing business as tech support consultant.
 <!--
 **RailonA/RailonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
