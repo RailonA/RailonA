@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 -->
 
 
-[https://github-readme-stats.vercel.app/api?username=RailonA&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=RailonA&show_icons=true&theme=radical))]([https://github.com/RailonA/github-readme-stats](https://github.com/RailonA/github-readme-stats))
