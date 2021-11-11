@@ -1,24 +1,12 @@
 ### Hi, I'm Railon Acosta 👋
 
+### Software Developer, Project Manager, and Sport Addict.
+- 💻 Goal: Landing a developer job which I am proud of who I'm working with and what I'm working for!
+- 👔 Used to work as Technical Support Specialist in the financial institutions, etc.
+- 🔭 I recently finished the Full Stack Web Development Program in Microverse.
+- 🌱 Mastered Javascript, React, and Ruby on Rails.
+- 🔊 Problem-solver, strategic thinker, and good lad :)
 
-    I’m currently a student at Microverse remote full-stack software developer boot camp
-    I'm currently learning HTML&CSS, Ruby, Ruby on Rails, JavaScript, React & Redux
-    I have a strong background in the Credit card processing business as a tech support consultant.
-
-<!--
-**RailonA/RailonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Railon Acosta's github stats](https://github-readme-stats.vercel.app/api?username=RailonA&show_icons=true&theme=radical)](https://github.com/RailonA/github-readme-stats)
 
