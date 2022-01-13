@@ -8,10 +8,10 @@
 - 🔊 Problem-solver, strategic thinker, and good lad :)
 
 
-[![Railon Acosta's github stats](https://github-readme-stats.vercel.app/api?username=RailonA&show_icons=true&theme=radical)](https://github.com/RailonA/github-readme-stats)
+[![Railon Acosta's github stats](https://github-readme-stats.vercel.app/api?username=RailonA&show_icons=true&theme=radical?theme=vision-friendly-dark)](https://github.com/RailonA/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RailonA&show_icons=true&theme=radical&layout=compact)](https://github.com/RailonA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RailonA&show_icons=true&theme=radical&layout=compact?theme=vision-friendly-dark)](https://github.com/RailonA/github-readme-stats)
 
 
 ### Languages and Tools:
