@@ -1,6 +1,6 @@
 ### Hi, I'm Railon Acosta 👋
 
-### Software Developer, Project Manager, and Sport Addict.
+### Software Developer, Project Manager, and Artist.
 - 💻 Goal: Landing a developer job which I am proud of who I'm working with and what I'm working for!
 - 👔 Used to work as Technical Support Specialist in the financial institutions, etc.
 - 🔭 I recently finished the Full Stack Web Development Program in Microverse.
